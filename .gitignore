@@ -1,0 +1,9 @@
+venv
+RandomForestClassifier
+base_learner_results
+LGBMClassifier
+LightGBM
+users.pkl
+purchases.pkl
+sessions.pkl
+model_data.pkl
